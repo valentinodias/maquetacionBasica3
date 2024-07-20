@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+#contenedor{
+    width: 99%;
+    height: 1278px;
+    background-color: gray;
+    margin: auto;
+}
+.Caja1{
+    width:85% ;
+    height: 1278px;
+    background-color: blue;
+    border: 3px solid black;
+    float: left;
+}  
+.Caja2{
+    width: 15%;
+    height: 840px;
+    background-color: red;
+    border: 3px solid black;
+    float: right;
+}
+.Caja3{
+    width: 15%;
+    height: 437px;
+    background-color: blueviolet;
+    border: 3px solid black;
+    float: left;
+}   
